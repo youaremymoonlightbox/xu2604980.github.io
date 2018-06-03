@@ -1,5 +1,5 @@
 # Site settings
-title: 梦见水流泪
+title: Calmer Blog
 SEOTitle: 梦见水流泪的博客 | Calmer Blog
 header-img: img/post-bg-desk.jpg
 email: calmer_xu@gmail.com
@@ -19,10 +19,10 @@ sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's us
 # SNS settings
 RSS: false
 # weibo_username:     qiubaiying
-zhihu_username:     qiubaiying
-github_username:    qiubaiying
-facebook_username:  baiying.qiu.7
-jianshu_username:   e71990ada2fd
+zhihu_username:
+github_username:    xu2604980
+facebook_username:
+jianshu_username:   abee5566338f
 #twitter_username:   qiubaiying
 
 
@@ -62,11 +62,11 @@ kramdown:
 # Gitalk
 gitalk:
   enable: true    #是否开启Gitalk评论
-  clientID: f2c84e7629bb1446c1a4                            #生成的clientID
-  clientSecret: ca6d6139d1e1b8c43f8b2e19492ddcac8b322d0d    #生成的clientSecret
-  repo: qiubaiying.github.io    #仓库名称
-  owner: qiubaiying    #github用户名
-  admin: qiubaiying
+  clientID: 6e63f20fb00902cc8020                            #生成的clientID
+  clientSecret: 65e4001d4c991089d51963b41285baa25e0ccf4d    #生成的clientSecret
+  repo: xu2604980.github.io    #仓库名称
+  owner: xu2604980    #github用户名
+  admin: xu2604980
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
@@ -74,11 +74,11 @@ gitalk:
 
 # Analytics settings
 # Baidu Analytics
-ba_track_id: b50bf2b12b5338a1845e33832976fd68
+ba_track_id: 4f183a020321ee12f12b0afd2054212b
 
 # Google Analytics
-ga_track_id: 'UA-90855596-1'            # Format: UA-xxxxxx-xx
-ga_domain: qiubaiying.top               # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
+#ga_track_id: 'UA-90855596-1'            # Format: UA-xxxxxx-xx
+#ga_domain: qiubaiying.top               # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
 
 
 
