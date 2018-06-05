@@ -1,13 +1,13 @@
 # Site settings
-title: Calmer Blog
-SEOTitle: 梦见水流泪的博客 | Calmer Blog
+title: Poppy Blog
+SEOTitle: Poppy Blog
 header-img: img/post-bg-desk.jpg
-email: calmer_xu@gmail.com
+email: 822823780@qq.com
 description: "Every failure is leading towards success."
 keyword: ""
-url: "http://xu2604980.github.io"          # your host, for absolute URL
+url: "http://youaremymoonlightbox.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/xu2604980/xu2604980.github.io.git" # you code repository
+github_repo: "https://github.com/youaremymoonlightbox/youaremymoonlightbox.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
@@ -20,9 +20,9 @@ sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's us
 RSS: false
 # weibo_username:     qiubaiying
 zhihu_username:
-github_username:    xu2604980
+github_username:    youaremymoonlightbox
 facebook_username:
-jianshu_username:   abee5566338f
+#jianshu_username:   abee5566338f
 #twitter_username:   qiubaiying
 
 
@@ -60,14 +60,14 @@ kramdown:
 # disqus_username: qiubaiying
 
 # Gitalk
-gitalk:
-  enable: true    #是否开启Gitalk评论
-  clientID: 6e63f20fb00902cc8020                            #生成的clientID
-  clientSecret: 65e4001d4c991089d51963b41285baa25e0ccf4d    #生成的clientSecret
-  repo: xu2604980.github.io    #仓库名称
-  owner: xu2604980    #github用户名
-  admin: xu2604980
-  distractionFreeMode: true #是否启用类似FB的阴影遮罩
+#gitalk:
+#  enable: true    #是否开启Gitalk评论
+#  clientID: 6e63f20fb00902cc8020                            #生成的clientID
+#  clientSecret: 65e4001d4c991089d51963b41285baa25e0ccf4d    #生成的clientSecret
+#  repo: xu2604980.github.io    #仓库名称
+#  owner: xu2604980    #github用户名
+#  admin: xu2604980
+#  distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
 # 统计
